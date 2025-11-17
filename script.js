@@ -72,3 +72,11 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
+
+// Dark mode toggle
+function toggleDarkMode() {
+    document.body.classList.toggle('dark-mode');
+    const btn = document.getElementById('darkModeToggle');
+    btn.textContent = document.body.classList.contains('dark-mode') ? '☀️ Light Mode' : '🌙 Dark Mode';
+}
