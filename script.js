@@ -26,7 +26,8 @@ function addTask() {
 function renderTasks() {
     const taskList = document.getElementById('taskList');
     taskList.innerHTML = '';
-    
+        // Update task counter
+    document.getElementById('taskCounter').textContent = `Total tasks: ${tasks.length}`;
     tasks.forEach(task => {
         const li = document.createElement('li');
         li.className = 'task-item' + (task.completed ? ' completed' : '');
