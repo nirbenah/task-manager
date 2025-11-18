@@ -19,6 +19,8 @@ Simply open `index.html` in your web browser.
 ## Learning Git with This Project
 This project is designed for hands-on Git practice. You'll learn:
 - Creating commits
+
+## change from github
 - Working with branches
 - Merging changes
 - Resolving conflicts
