@@ -49,7 +49,7 @@ function renderTasks() {
         taskList.appendChild(li);
     });
 }
-//excuse for commit 2
+
 // Toggle task completion
 function toggleTask(id) {
     tasks = tasks.map(task => 
@@ -80,4 +80,7 @@ function toggleDarkMode() {
     const btn = document.getElementById('darkModeToggle');
     btn.textContent = document.body.classList.contains('dark-mode') ? '☀️ Light Mode' : '🌙 Dark Mode';
 }
-//excuse to push
+
+
+#from task-manager2, dark mode
+#another commit of dark mode
