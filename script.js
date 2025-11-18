@@ -80,3 +80,4 @@ function toggleDarkMode() {
     const btn = document.getElementById('darkModeToggle');
     btn.textContent = document.body.classList.contains('dark-mode') ? '☀️ Light Mode' : '🌙 Dark Mode';
 }
+//excuse to push
