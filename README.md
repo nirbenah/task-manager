@@ -22,6 +22,7 @@ This project is designed for hands-on Git practice. You'll learn:
 
 ## change from github
 ## another change from github
+## number 3 change
 - Working with branches
 - Merging changes
 - Resolving conflicts
