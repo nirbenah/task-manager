@@ -1,1 +1,5 @@
-Servo Sapir
+Speed: 10 seconds per 60 degrees
+Gearing: Plastic
+Size: Micro
+Motion: S-curve 
+
