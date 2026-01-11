@@ -1,1 +1,5 @@
-Servo Nir
+Speed: 5 seconds per 60 degrees
+Gearing: Metal
+Size: Micro
+Motion: trapezoidal
+
